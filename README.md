@@ -8,6 +8,8 @@
 
 [버전별 변경 사항](https://github.com/jooingong1/ddalkkak-tamagotchi-releases/releases)
 
+v0.1.1에서는 이전에 종료된 서버 주소가 자동 입력되어 새 초대방을 만들지 못하던 문제를 수정했습니다. 이전 방은 ‘다시 입장’으로 연결하고, 새 방은 서버 주소를 비워 내 PC에서 만드세요.
+
 GitHub 로그인이나 Node.js 설치 없이 받을 수 있습니다.
 
 ## 실행하기
